@@ -1,0 +1,2 @@
+S =  "".join(map(str,sorted(list(input()))))
+print(S)
